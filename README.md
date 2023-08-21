@@ -12,15 +12,15 @@ for GUI.
 ![img](https://i.ibb.co/ysYqVdj/mainwindowfb.png)
 
 # Dependencies
-selenium~=3.141.0
+selenium~=4.2.0
 
-pyqt5~=5.14.2
+pyqt5
 
 pysqlite3
 
-keyring~=10.6.0
+keyring
 
-cryptography>=3.2
+cryptography
 
 # Installation
 
