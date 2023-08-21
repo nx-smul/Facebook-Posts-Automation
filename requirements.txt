@@ -1,5 +1,5 @@
-selenium~=3.141.0
-pyqt5~=5.14.2
+selenium~=4.2.0
+pyqt5
 pysqlite3
-keyring~=10.6.0
-cryptography>=3.2
+keyring
+cryptography
